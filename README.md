@@ -11,7 +11,7 @@ with one plugin, `ecomweb` (`plugins/ecomweb/`): three slash commands
 In Claude Code:
 
 ```
-/plugin marketplace add travistech20/ecomweb-claude-plugin
+/plugin marketplace add ecomwebai/ecomweb-claude-plugin
 /plugin install ecomweb@ecomweb
 ```
 
